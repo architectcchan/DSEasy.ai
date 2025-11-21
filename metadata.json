@@ -1,0 +1,7 @@
+{
+  "name": "DSEasy.ai",
+  "description": "Hong Kong's Smartest AI Tutor. Secure your 5** in HKDSE with personalized drills, essay grading, and past paper practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
